@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Milk Start</string>
+    <string name="REGISTRATION">FARMER REGISTRATION</string>
+    <string name="Selectlang">Select Language భాషను ఎంచుకోండి</string>
+    <string name="English">English</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="LOGIN">Login Page</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="frgtpassword">Forgot Password</string>
+    <string name="loginbut">LOGIN</string>
+    <string name="register"> Register Now</string>
+    <string name="Enteremail">Enter the email</string>
+    <string name="Enterpass">Enter the password</string>
+    <string name="LOGINbtn">Login</string>
+    <string name="registerbtn">Register now</string>
+    <string name="noacc">Do not have an account?</string>
+    <string name="rgstr">Register</string>
+    <string name="FULLNAME">FULLNAME</string>
+    <string name="Entername">Enter fullname</string>
+    <string name="PHONE">PHONE NUMBER</string>
+    <string name="Enterphnno">Enter Phone number</string>
+    <string name="Address">ADDRESS</string>
+    <string name="Enteraddr">Enter address</string>
+    <string name="CONFIRMPASSWORD">CONFIRM PASSWORD</string>
+    <string name="Enterconfirmpass">Enter confirm Password</string>
+    <string name="Alreadyanacc">Already have an account?</string>
+    <string name="entpass">Enter password</string>
+    <string name="searchavail">SEARCH AVAILABILITY</string>
+    <string name="enterpin">enter pin</string>
+    <string name="search">search</string>
+    <string name="orderplace">your Order has been placed</string>
+    <string name="moreorder">Want to order more....</string>
+    <string name="order">order</string>
+    <string name="pincode">PINCODE</string>
+    <string name="enterpincode">enter pincode</string>
+    <string name="milkcost">MILK COST</string>
+    <string name="id">  Id</string>
+    <string name="qaun">  litres</string>
+    <string name="forhist">for orders history</string>
+    <string name="update">update</string>
+    <string name="history">HISTORY</string>
+    <string name="admin">ADMIN HOMEPAGE</string>
+    <string name="milkup">MILK UPDATE</string>
+    <string name="farmreg">farmer registration</string>
+
+    <string name="Date">Date</string>
+    <string name="milkq">milk quantity</string>
+    <string name="cos">cost/L</string>
+    <string name="toatl"> total_cost</string>
+
+
+    <string name="buy">BUY</string>
+
+
+    <string name="entercost">Enter milk cost</string>
+    <string name="two_login">Back to login </string>
+
+    <string name="milks">milk sold</string>
+    <string name="milkg">milk given</string>
+
+
+
+</resources>

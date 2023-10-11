@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/drawable/bcg.xml" value="0.19" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/drawable/border.xml" value="0.2095" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/drawable/borderline.xml" value="0.132" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/drawable/email_24.xml" value="0.1505" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_customer_history.xml" value="0.1" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_farmerregistration.xml" value="0.2" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_farmers.xml" value="0.176" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_farmers_history.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_languages.xml" value="0.25" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_myhomepage.xml" value="0.1" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_myloginpage.xml" value="0.264" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_myregisterpage.xml" value="0.264" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_mysearchpage.xml" value="0.152" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_order.xml" value="0.264" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/activity_producers.xml" value="0.136" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/border.xml" value="0.25" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/borderline.xml" value="0.2359375" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/histlist.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/item.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/lidt_item.xml" value="0.264" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/table.xml" value="0.25" />
+        <entry key="..\:/Users/karri/AndroidStudioProjects/Myfinalproject/app/src/main/res/layout/table_list.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
